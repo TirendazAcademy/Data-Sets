@@ -1,1 +1,1 @@
-Tirendaz Akademi kanalındaki dersler için kullandığım veri setleri.
+I used data sets for Tirendaz Akademi YouTube Channel
